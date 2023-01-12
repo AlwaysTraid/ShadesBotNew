@@ -1,0 +1,421 @@
+{
+    "pages": {
+      "1": {
+        "items": [
+          {
+            "name": "Cell Phone",
+            "id": "cellphone",
+            "type": "Tool",
+            "cost": 3000,
+            "sell": 300,
+            "useable": true,
+            "hidden": false,
+            "time": -1,
+            "image": ":mobile_phone:",
+            "description": "Do you tend to get robbed a lot? Do you have friends who like to break into your bank? Then get a cell phone! Try calling the police whenever someone is trying to rob you! However, there are consequences for bothering someone consistently..."
+          },
+          {
+            "name": "Padlock",
+            "id": "padlock",
+            "type": "Tool",
+            "cost": 5000,
+            "sell": 500,
+            "useable": true,
+            "hidden": false,
+            "time": 86400000,
+            "image": "<:padlock:901618137894641674>",
+            "description": "Feel free to attach a padlock to your wallet to prevent people from robbing you! While this is pretty nifty to stop people from robbing you, whenever they try, there is a high chance the padlock will break! Probably should've saved up for the deluxe version."
+          },
+          {
+            "name": "Laptop",
+            "id": "laptop",
+            "type": "Tool",
+            "cost": 8000,
+            "sell": 800,
+            "useable": false,
+            "hidden": false,
+            "image": "<:laptop:901618150037135391>",
+            "description": "Using the laptop will allow you to get access to this amazing wonderland we call \"The Internet!\" You'll be now able to make some memes too! Make sure to not enter the dark web tho..."
+          },
+          {
+            "name": "Claymore",
+            "id": "claymore",
+            "type": "Tool",
+            "cost": 10000,
+            "sell": 1000,
+            "useable": true,
+            "hidden": false,
+            "time": 86400000,
+            "image": "<:Claymore:901617791579328543>",
+            "description": "Dang, you wanted to go the extreme route for those pesky robbers! A claymore, when used, is placed in front of your wallet to prevent anyone from trying to rob it. There is a HIGH chance that someone will die trying to rob you after it is set up and lose their items. This item lasts 24 hours."
+          },
+          {
+            "name": "Fishing Rod",
+            "id": "fishingrod",
+            "type": "Tool",
+            "cost": 25000,
+            "sell": 2500,
+            "useable": false,
+            "hidden": false,
+            "image": "<:FishingRod:901617775829717073>",
+            "description": "You need this fishing rod to go fishing! Pair this with some bait and you may catch some wonders at your nearest pond or even the ocean!"
+          }
+        ]
+      },
+      "2": {
+        "items": [
+          {
+            "name": "Hunting Rifle",
+            "id": "huntingrifle",
+            "type": "Tool",
+            "cost": 25000,
+            "sell": 2500,
+            "useable": false,
+            "hidden": false,
+            "image": "<:HuntingRifle:905688870107111424>",
+            "description": "You need this hunting rifle to go hunting! Prowl the deepest of the woods and come back with some of the most ludicrous meat or something even more mystical..."
+          },
+          {
+            "name": "Shovel",
+            "id": "shovel",
+            "type": "Tool",
+            "cost": 25000,
+            "sell": 2500,
+            "useable": false,
+            "hidden": false,
+            "image": "<:shovel:906034276431171634>",
+            "description": "You need this shovel to be able to dig up some interesting items!"
+          },
+          {
+            "name": "Coin Bomb",
+            "id": "coinbomb",
+            "type": "Tool",
+            "cost": 30000,
+            "sell": 3000,
+            "useable": true,
+            "hidden": false,
+            "time": -1,
+            "image": "<:coinbomb:906272456254304306>",
+            "description": "Activate in a channel for others to collect from a pot of 2,000 to 5,000 shadebucks! Basically a tool to give away some coins and give people an incentive to talk in chat."
+          }
+        ]
+      },
+      "3": {
+        "items": [
+          {
+            "name": "Purple Buzz Machine",
+            "id": "purplebuzzmachine",
+            "type": "Collectable",
+            "cost": 100,
+            "sell": 0,
+            "useable": false,
+            "hidden": false,
+            "image": "<:BuzzMachine:901628658018578492>",
+            "description": "Pretty sure that this item is pretty self-explanatory... Please dont use this item for ANYTHING. Looking at you boys...."
+          },
+          {
+            "name": "Rare Kappa",
+            "id": "rarekappa",
+            "type": "Collectable",
+            "cost": 750000,
+            "sell": 0,
+            "useable": false,
+            "hidden": false,
+            "image": "<:Kappa:895793170716192819>",
+            "description": "A subtle item to have to flex on those who can't afford one of their own. May want to look at the bigger options, however."
+          },
+          {
+            "name": "Kappa Coin",
+            "id": "kappacoin",
+            "type": "Collectable",
+            "cost": 7500000,
+            "sell": 0,
+            "useable": false,
+            "hidden": false,
+            "image": "<:KappaCoin:901632989396598875>",
+            "description": "All this for a coin? Guess its a cool way to show off to your friends. I normally say go big or go home."
+          },
+          {
+            "name": "Kappa Medal",
+            "id": "kappamedal",
+            "type": "Collectable",
+            "cost": 500000000,
+            "sell": 0,
+            "useable": false,
+            "hidden": false,
+            "image": "<:KappaMedal:901634103026282567>",
+            "description": "Jeez you have a lot of money if you can afford this. Guess its only fair if we add a 5% robbing shield (does not stack) on you to keep some of that money."
+          },
+          {
+            "name": "Kappa Trophy",
+            "id": "kappatrophy",
+            "type": "Collectable",
+            "cost": 1000000000,
+            "sell": 0,
+            "useable": false,
+            "hidden": false,
+            "image": "<:KappaTrophy:901656140889350205>",
+            "description": "Woah. Thats one shiny trophy. We decided that if you have this item, you deserve some nifty perks. With this item, you get a 10% robbing shield as well as an extra 5% coin multiplier (does not stack)."
+          }
+        ]
+      },
+      "4": {
+        "items": [
+          {
+            "name": "Kappa Crown",
+            "id": "kappacrown",
+            "type": "Collectable",
+            "cost": 2500000000,
+            "sell": 0,
+            "useable": false,
+            "hidden": false,
+            "image": "<:KappaCrown:901657718367068170>",
+            "description": "You must've robbed Jeff Bezos if you are able to buy this. Having this crown allows you to gamble up to 100 million shadebucks at a time! While it doesn't have as many perks as the Kappa Trophy, it is more of an item to show that you have style."
+          }
+        ]
+      },
+      "5": {
+        "items": [
+          {
+            "name": "Bank Note",
+            "id": "banknote",
+            "type": "Power-up",
+            "cost": 0,
+            "sell": 10000,
+            "useable": true,
+            "hidden": true,
+            "time": -1,
+            "image": "<:banknote:905711635052761128>",
+            "description": "In need of something to increase your bank space quickly? Feel free to use a bank note to increase your space by a random range from 5,000-25,000! But, if you are in need of a quick buck, you could sell it as well."
+          },
+          {
+            "name": "Life Saver",
+            "id": "lifesaver",
+            "type": "Power-up",
+            "cost": 30000,
+            "sell": 3000,
+            "useable": false,
+            "hidden": false,
+            "image": "<:lifesaver:906271590222802977>",
+            "description": "Having one of these in your inventory will prevents you from one death and consumes the life saver in return."
+          },
+          {
+            "name": "Fishing Bait",
+            "id": "fishingbait",
+            "type": "Power-up",
+            "cost": 0,
+            "sell": 10000,
+            "useable": true,
+            "hidden": true,
+            "time": 1200000,
+            "image": "<:fishingbait:906276148571439164>",
+            "description": "Using this item allows you to get a guaranteed catch when fishing for 20 minutes. Found while working as a Professional Fisherman."
+          },
+          {
+            "name": "Bear Trap",
+            "id": "beartrap",
+            "type": "Power-up",
+            "cost": 0,
+            "sell": 10000,
+            "useable": true,
+            "hidden": true,
+            "time": 1200000,
+            "image": "<:beartrap:906280323480969247>",
+            "description": "Using this item guarantees you catchng an animal when hunting for 20 minutes. Found while working as a Professional Hunter."
+          }
+        ]
+      },
+      "6": {
+        "items": [
+          {
+            "name": "Dragon",
+            "id": "dragon",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 30000,
+            "useable": false,
+            "hidden": true,
+            "image": "🐉",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Boar",
+            "id": "boar",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 5000,
+            "useable": false,
+            "hidden": true,
+            "image": "🐗", 
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Deer",
+            "id": "deer",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 2500,
+            "useable": false,
+            "hidden": true,
+            "image": "🦌",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Duck",
+            "id": "duck",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 2000,
+            "useable": false,
+            "hidden": true,
+            "image": "🦆",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Rabbit",
+            "id": "rabbit",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 1750,
+            "useable": false,
+            "hidden": true,
+            "image": "🐰",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Skunk",
+            "id": "skunk",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 1250,
+            "useable": false,
+            "hidden": true,
+            "image": "🦨",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Kraken",
+            "id": "kraken",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 75000,
+            "useable": false,
+            "hidden": true,
+            "image": "<:kraken:905711917409140736>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Jelly Fish",
+            "id": "jellyfish",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 10000,
+            "useable": false,
+            "hidden": true,
+            "image": "<:jellyfish:905711133959270521>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Exotic Fish",
+            "id": "exoticfish",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 5000,
+            "useable": false,
+            "hidden": true,
+            "image": "<:exoticfish:905710462296010752>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Decent Fish",
+            "id": "decentfish",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 3000,
+            "useable": false,
+            "hidden": true,
+            "image": "<:rarefish:905710521460850698>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Garbage",
+            "id": "garbage",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 200,
+            "useable": false,
+            "hidden": true,
+            "image": "<:garbage:905709494951100416>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Seaweed",
+            "id": "seaweed",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 500,
+            "useable": false,
+            "hidden": true,
+            "image": "<:seaweed:905709137172783104>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Common Fish",
+            "id": "commonfish",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 1000,
+            "useable": false,
+            "hidden": true,
+            "image": "🐟",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Worm",
+            "id": "worm",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 500,
+            "useable": false,
+            "hidden": true,
+            "image": "<:worm:906047012984737802>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Ant",
+            "id": "ant",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 1000,
+            "useable": false,
+            "hidden": true,
+            "image": "🐜",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Ladybug",
+            "id": "ladybug",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 3000,
+            "useable": false,
+            "hidden": true,
+            "image": "<:ladybug:906059291818094623>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          },
+          {
+            "name": "Stickbug",
+            "id": "stickbug",
+            "type": "Sellable",
+            "cost": 0,
+            "sell": 3000,
+            "useable": false,
+            "hidden": true,
+            "image": "<a:stickbug:906064569233977344>",
+            "description": "This item's purpose is to be collected or sold. Nothing more, nothing less."
+          }
+        ]
+      }
+      
+    }
+  }

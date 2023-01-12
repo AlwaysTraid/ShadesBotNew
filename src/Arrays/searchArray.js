@@ -1,0 +1,40 @@
+// Place || Items || Found Message || Death Message || Chance Of Dying || Earning Minimum || Earning Maximum
+const places = [
+    ["Air", "", "Wtf..", "While you were looking, you forgot how to breathe the air you were searching.", "35", "3500", "5000"],
+    ["Area 51", "", "DID YOU JUST BREAK INTO THE GOVERNMENT?", "You walked up and got shot. What did you think was going to happen?", "85", "8500", "10500"],
+    ["Attic", "", "Weird place to find some of those items...", "", "0", "200", "500"],
+    ["Bank", "", "DID YOU FUCKING ROB A BANK??", "A robber beat you to it and shot you. At least it wasn't the cops!", "65", "6500", "9000"],
+    ["Basement", "", "We aren't going to talk about the bodies? Alright.", "All the children attacked you while your back was turned!", "8", "800", "1500"],
+    ["Bed", "", "What have you been doing in bed...", "Did you forget you left a prostitute up there? She didn't like that you forgot about her.", "3", "300", "700"],
+    ["Bus", "", "Someone has to clean under those seats more..", "", "0", "200", "500"],
+    ["Bushes", "", "Luckily none of those bushes pricked you, you prick.", "", "0", "200", "500"],
+    ["Car", "", "We were sure that was our car... right?", "", "0", "200", "500"],
+    ["Coat", "", "Wonder how long thats been there!", "", "0", "200", "500"],
+    ["Couch", "", "How long did you sit on this without realising??", "You found a very moldy cookie and ate it. You didn't realize it was expired.", "10", "1000", "1300"],
+    ["Closet", "", "That wasn't the only thing that came out of the closet!", "Insecurities took you over forcing you to never come out of the closet.", "5", "500", "800"],
+    ["Discord", "", "You searched through your nonexistant dms.", "You found a catfish who convinced you to leave the safety of your home.", "12", "1200", "1500"], 
+    ["Dog", "", "What. Did. You. Do. To. That. Dog..", "The dog did not like you touching them there...", "15", "1500", "1800"],
+    ["Dresser", "", "Why are some of these so crusty?", "", "0", "200", "500"],
+    ["Dumpster", "", "Wow. You've smelled better. Not that much better though.", "A homeless man shared his sandwich, but sharing isn't always caring. You died from whatever drugs were in the sandwich (it was meth probably lol)", "15", "1500", "1800"],
+    ["Fridge", "", "If only your dad came back with the milk...", "", "0", "200", "500"],
+    ["Golvebox", "", "Why do you keep money in there?", "You got stuck in the glovebox and overheated.", "8", "800", "1100"],
+    ["Grass", "", "What? Did a dog shit this out or something?", "You found a landmine in front of your neighbor's house. You remember why you don't go outside anymore.", "15", "1500", "1800"],
+    ["Hospital", "", "Did you rob a sick person???", "You contracted a deadly disease that causes you to have erectile dysfunction up until your final moments.", "35", "3500", "4000"],
+    ["Laundromat", "", "Well now you can pay for your laundry.", "", "0", "200", "500"],
+    ["Pantry", "", "Thats a lot of stale food..", "", "0", "200", "500"],
+    ["Pocket", "", "Did you really gain anything if you already had it?", "", "0", "200", "500"],
+    ["Purse", "", "Way to go for stealing an old lady's purse. Scum.", "The old lady was actually your ex in disguise.", "15", "1500", "1800"],
+    ["Sewer", "", "Who flushed this down their toilet??", "You found a crocodile which didn't like you entering their domain.", "20", "2000", "2500"],
+    ["Shoe", "", "Do you just walk on this everyday and not feel it?", "", "0", "200", "500"],
+    ["Sink", "", "Now since that's done.. maybe time for some dishes?", "", "0", "200", "500"],
+    ["Street", "", "You can thank all those Gurus for allowing to outrun that car...", "You got hit by a fucking car. What else did you expect from running in front of traffic?", "45", "4500", "5000"],
+    ["Tree", "", "Why would you even think to look here?", "You fell off the tree and broke your neck. How bad are you at climbing?", "10", "1000", "1300"],
+    ["Uber", "", "Why? Uber drivers don't make that much as it is. Ass.", "Your uber driver pulled out the nine and shot you.", "15", "1500", "1800"],
+    ["Vacuum", "", "You find out that this vaccum sucked better than your last relationship.", "", "0", "200", "500"],
+    ["Van", "", "Just don't try this with a white van irl.. Or do.", "Why would you accept a guy offering you candy inside the van?", "12", "1200", "1500"],
+    ["Washer", "", "Why do you put this in your washer?", "", "0", "200", "500"],
+  ];
+
+module.exports = { 
+    places 
+};
