@@ -34,10 +34,10 @@ module.exports = {
 		var rand = Math.floor(Math.random() * 100) + 1;
         
 
-		if(rand <= 50){
+		if(rand <= 35){
 			amount = 0;
 			returnMessage = "**LOL** YOU WERE CAUGHT!";
-		}else if((rand > 50) && (rand <= 80)){
+		}else if((rand > 35) && (rand <= 80)){
 			amount = Math.floor((userProfileInfo.coins)*0.15);
 			returnMessage = "You stole a small portion 💸";
 		}else if((rand > 80) && (rand <= 95)){
