@@ -28,7 +28,7 @@ const profileSchema = new mongoose.Schema({
     serverID: { type: String, require: true },
     coins: { type: Number, default: 1000 },
     bank: { type: Number, default: 0},
-    bankMax: {type: Number, default: 10000 },
+    bankMax: {type: Number, default: 20000 },
     donorLevel: {type: Number, default: 0},
     xp: {type: Number, default: 0},
     level: {type: Number, default: 0},

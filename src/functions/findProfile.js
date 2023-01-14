@@ -15,7 +15,7 @@ module.exports = (client) => {
                         serverID: member.guild.id,
                         coins: 1000,
                         bank: 0,
-                        bankMax: 10000,
+                        bankMax: 20000,
                         xp: 0,
                         level: 0,
                         pet: null,
