@@ -17,6 +17,8 @@ module.exports = {
             return interaction.reply("Maybe try to rob someone that exists lol?");
         }
 
+        if(user.id == 266378494496342016) return interaction.reply("You can't rob this user as they are a test subject.")
+
         let userProfileInfo = await client.findProfile(user)
 
         if(!userProfileInfo) return interaction.reply("User is undocumented. Ask them to do a command so I can find information on them.")
